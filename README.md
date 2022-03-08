@@ -1,6 +1,7 @@
 Hello 👋, my name is Zulfikar Alwi, you can call me "Zul". im college student of Pamulang University, im very interesting on frontend side and also interest on mobile programming with flutter. and still continue to develop my programming skills.
 
-<h3>💼 Career</h3>
+<h3>💼 Career
+  
 on the past i work as <b>technician</b> on the small startup in a year, what do i do is repairing pc, laptop, android, maintenance it, and making a website with wordpress. and sometimes make posters or banner designs from customers.
 
 and what do i do now is focus on my college, and develop my flutter skills 😁
