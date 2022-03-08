@@ -12,7 +12,9 @@ and what do i do now is focus on my college, and develop my flutter skills 😁
 </ul>
 
 <h2>👀 Playstore Rilis<h2>
+<ul>
   <li> WAQTU Digital Qur'an Indonesia: <a href="https://play.google.com/store/apps/details?id=com.waqtuindonesia">Playstore</a></li>
+</ul>
   
 <h2>🚀 How to reach me</h2>
 <ul>
