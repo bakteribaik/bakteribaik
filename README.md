@@ -18,5 +18,8 @@ and what do i do now is focus on my college, and develop my flutter skills 😁
   <li>TikTok: <a href="https://tiktok.com/zeday_">@zeday_</a></li>
 </ul>
 
+
+
 <hr>
+
 ©2022 - Zulfikar Alwi Lubis
