@@ -6,12 +6,12 @@ on the past i work as <b>technician</b> on the small startup in a year, what do 
 
 and what do i do now is focus on my college, and develop my flutter skills 😁
 
-<h3>🔍 Currently Learning</h3>
+<h2>🔍 Currently Learning</h2>
 <ul>
   <li> Mobile Programming with Flutter
 </ul>
 
-<h3>🚀 How to reach me</h3>
+<h2>🚀 How to reach me</h2>
 <ul>
   <li>Web: <a href="https://zulfikaralwi.my.id">zulfikaralwi.my.id</a></li>
   <li>Instagram: <a href="https://instagram.com/zulfikaralwilubis/">@zulfikaralwilubis</a></li>
