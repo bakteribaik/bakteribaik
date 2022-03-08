@@ -15,7 +15,7 @@ and what do i do now is focus on my college, and develop my flutter skills 😁
   <li> Mobile Programming with Flutter
 </ul>
 
-<h3>👀 Playstore Rilis</h3>
+<h3>👀 Playstore Release</h3>
 <ul>
   <li> WAQTU Digital Qur'an Indonesia: <a href="https://play.google.com/store/apps/details?id=com.waqtuindonesia">Download On Playstore</a> [Flutter]</li>
 </ul>
