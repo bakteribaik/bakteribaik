@@ -9,17 +9,18 @@ on the past i work as <b>technician</b> on the small startup in a year, what do 
 
 and what do i do now is focus on my college, and develop my flutter skills 😁
 
-<h2>🔍 Currently Learning</h2>
+<h2>💻 Programming Experience
+<h3>🔍 Currently Learning</h3>
 <ul>
   <li> Mobile Programming with Flutter
 </ul>
 
-<h2>👀 Playstore Rilis</h2>
+<h3>👀 Playstore Rilis</h3>
 <ul>
-  <li> WAQTU Digital Qur'an Indonesia: <a href="https://play.google.com/store/apps/details?id=com.waqtuindonesia">Download On Playstore</a></li>
+  <li> WAQTU Digital Qur'an Indonesia: <a href="https://play.google.com/store/apps/details?id=com.waqtuindonesia">Download On Playstore</a> [Flutter]</li>
 </ul>
 
-<h2>🚀 How to reach me</h2>
+<h3>🚀 How to reach me</h3>
 <ul>
   <li>Web: <a href="https://zulfikaralwi.my.id">zulfikaralwi.my.id</a></li>
   <li>Instagram: <a href="https://instagram.com/zulfikaralwilubis/">@zulfikaralwilubis</a></li>
