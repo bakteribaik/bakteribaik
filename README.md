@@ -1,16 +1,25 @@
-### Hi there 👋
+Hello 👋, my name is Zulfikar Alwi, you can call me "Zul". im college student of Pamulang University, im very interesting on frontend side and also interest on mobile programming with flutter. and still continue to develop my programming skills.
 
-<!--
-**bakteribaik/bakteribaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###💼 Career
+<hr>
+on the past i work as <b>technician</b> on the small startup in a year, what do i do is repairing pc, laptop, android, maintenance it, and making a website with wordpress. and sometimes make posters or banner designs from customers.
 
-Here are some ideas to get you started:
+and what do i do now is focus on my college, and develop my flutter skills 😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###🔍Currently Learning
+<hr>
+<ul>
+  <li> Mobile Programming with Flutter
+</ul>
+
+###🚀 How to reach me
+<hr>
+<ul>
+  <li>Web: <a href="https://zulfikaralwi.my.id">zulfikaralwi.my.id</a></li>
+  <li>Instagram: <a href="https://instagram.com/zulfikaralwilubis/">@zulfikaralwilubis</a></li>
+  <li>TikTok: <a href="https://tiktok.com/zeday_">@zeday_</a></li>
+</ul>
+
+<hr>
+<hr>
+©2022 - Zulfikar Alwi Lubis
