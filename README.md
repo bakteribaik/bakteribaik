@@ -19,6 +19,8 @@ and what do i do now is focus on my college, and develop my flutter skills 😁
 <h3>📌 The application i have ever made</h3>
 <ul>
   <li> WAQTU Digital Qur'an Indonesia: <a href="https://play.google.com/store/apps/details?id=com.waqtuindonesia">See On Playstore</a> [Flutter]</li>
+  <li> Unote - Catatan Simple: (on review) [Flutter]</li>
+  <li> WinkChat - Temukan Bestiemu (on review) [Flutter]</li>
 </ul>
 
 <h3>🚀 How to reach me</h3>
