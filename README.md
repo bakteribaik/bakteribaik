@@ -2,7 +2,7 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakteribaik&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center"><h1>Welcome to my Github Page</h1></div>
 
-Hello 👋, my name is Zulfikar Alwi, you can call me "Zul" and i'm 21 y.o. im college student of Pamulang University, im very interesting on frontend side and also interest on mobile programming with flutter. and still continue to develop my programming skills.
+Hello 👋, my name is Zulfikar Alwi, you can call me "Zul" and i'm 22 y.o. im college student of Pamulang University, im very interesting on frontend side and also interest on mobile programming with flutter. and still continue to develop my programming skills.
 
 <h2>💼 Career</h2>
   
@@ -33,5 +33,5 @@ and what do i do now is focus on my college, and develop my flutter skills 😁
 
 
 <hr>
-
+last update: 04 October 2022
 ©2022 - Zulfikar Alwi Lubis
