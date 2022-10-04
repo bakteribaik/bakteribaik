@@ -33,5 +33,5 @@ and what do i do now is focus on my college, and develop my flutter skills 😁
 
 
 <hr>
-last update: 04 October 2022
-©2022 - Zulfikar Alwi Lubis
+  
+last update: 04 October 2022 | Zulfikar Alwi Lubis
