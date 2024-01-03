@@ -26,7 +26,7 @@ and what do i do now is focus on my college, and develop my flutter skills 😁
 <h3>🚀 How to reach me</h3>
 <ul>
   <li>Web: <a href="https://zulfikaralwi.my.id">zulfikaralwi.my.id</a></li>
-  <li>Instagram: <a href="https://instagram.com/zulfikaralwilubis/">@zulfikaralwilubis</a></li>
+  <li>Instagram: <a href="https://instagram.com/zulfikaralwi_/">@zulfikaralwi_</a></li>
   <li>TikTok: <a href="https://tiktok.com/zeday_">@zeday_</a></li>
 </ul>
 
@@ -34,4 +34,4 @@ and what do i do now is focus on my college, and develop my flutter skills 😁
 
 <hr>
   
-last update: 04 October 2022 | Zulfikar Alwi Lubis
+last update: 03 January 2024 | Zulfikar Alwi Lubis
